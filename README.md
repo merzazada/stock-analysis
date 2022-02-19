@@ -2,4 +2,16 @@
 ### Overview of Project
 In this project and analyisis, we’ll refactor, the Stock Market Dataset with VBA solution code to loop through all the data one time in order to collect an entire dataset. Then, we’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, we just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 ### Results
+
+
 ### Summary
+**What are the advantages or disadvantages of refactoring code?**
+
+- The advantages of refactoring code is:
+your codes runs in less time, its clear and easy for other developers to read and understand your code, you can find the error easily.
+- the disadvantages of refactoring code is:
+first you have to go through all the code and understand its logic so you can refactor the code which is time consuming.
+
+**How do these pros and cons apply to refactoring the original VBA script?**
+
+A clean and well-organized code is always easy to change, easy to understand, and easy to maintain. You can avoid facing difficulty later if you pay attention to the code refactoring process earlier.
